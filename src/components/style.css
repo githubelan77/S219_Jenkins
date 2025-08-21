@@ -12,8 +12,8 @@
 }
 .header{
     grid-area: header;
-    background: #333;
-    color: white;
+    background: #03daf7;
+    color: rgb(100, 6, 250);
     display: flex;
     align-items: center;
     padding: 0 20px;
@@ -59,7 +59,7 @@
 
 .footer {
     grid-area: footer;
-    background: #333;
+    background: #15fa05;
     color: white;
     text-align: center;
     line-height: 60px;
